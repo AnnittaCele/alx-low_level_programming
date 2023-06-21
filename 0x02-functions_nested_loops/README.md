@@ -1,1 +1,1 @@
-a reademe for 0x02.c - Functions..
+0x02-functions_nested_loops
