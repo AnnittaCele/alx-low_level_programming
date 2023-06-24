@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_square - Printss n squares according n numbers of times
+ * print_square - Prints n squares according n number of times
  * @size: The number of squares/number of times
  * Return: empty
  */
@@ -19,7 +19,7 @@ void print_square(int size)
 	{
 	for (x = 0; x < size; x++)
 	{
-	for (y = 0; x < size; y++)
+	for (y = 0; y < size; y++)
 	{
 	_putchar(35);
 	}
